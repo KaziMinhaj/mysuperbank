@@ -1,0 +1,8 @@
+C:\Users\KaziMinhaj\source\repos\mybank\mybank\bin\Release\net6.0\publish\mybank.exe
+C:\Users\KaziMinhaj\source\repos\mybank\mybank\bin\Release\net6.0\publish\mybank.dll
+C:\Users\KaziMinhaj\source\repos\mybank\mybank\bin\Release\net6.0\publish\mybank.deps.json
+C:\Users\KaziMinhaj\source\repos\mybank\mybank\bin\Release\net6.0\publish\mybank.runtimeconfig.json
+C:\Users\KaziMinhaj\source\repos\mybank\mybank\bin\Release\net6.0\publish\mybank.pdb
+C:\Users\KaziMinhaj\source\repos\mybank\mybank\bin\Release\net6.0\publish\Humanizer.dll
+C:\Users\KaziMinhaj\source\repos\mybank\mybank\bin\Release\net6.0\publish\BankyStuffLibrary.dll
+C:\Users\KaziMinhaj\source\repos\mybank\mybank\bin\Release\net6.0\publish\BankyStuffLibrary.pdb

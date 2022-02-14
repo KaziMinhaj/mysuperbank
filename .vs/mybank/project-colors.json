@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "c268486d-5faa-47ce-adcd-0c7d34c83a42": {
+      "ProjectGuid": "c268486d-5faa-47ce-adcd-0c7d34c83a42",
+      "DisplayName": "mybank",
+      "ColorIndex": 0
+    },
+    "164b3ce6-7776-4188-bf01-cb9ff9bbd21e": {
+      "ProjectGuid": "164b3ce6-7776-4188-bf01-cb9ff9bbd21e",
+      "DisplayName": "BankyStuffLibrary",
+      "ColorIndex": 1
+    },
+    "cdf6a2cd-9627-4b5d-b030-3bae86651057": {
+      "ProjectGuid": "cdf6a2cd-9627-4b5d-b030-3bae86651057",
+      "DisplayName": "BankingTest",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

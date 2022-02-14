@@ -1,0 +1,11 @@
+C:\Users\KaziMinhaj\source\repos\mybank\BankyStuffLibrary\bin\Release\net6.0\BankyStuffLibrary.deps.json
+C:\Users\KaziMinhaj\source\repos\mybank\BankyStuffLibrary\bin\Release\net6.0\BankyStuffLibrary.dll
+C:\Users\KaziMinhaj\source\repos\mybank\BankyStuffLibrary\bin\Release\net6.0\ref\BankyStuffLibrary.dll
+C:\Users\KaziMinhaj\source\repos\mybank\BankyStuffLibrary\bin\Release\net6.0\BankyStuffLibrary.pdb
+C:\Users\KaziMinhaj\source\repos\mybank\BankyStuffLibrary\obj\Release\net6.0\BankyStuffLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\KaziMinhaj\source\repos\mybank\BankyStuffLibrary\obj\Release\net6.0\BankyStuffLibrary.AssemblyInfoInputs.cache
+C:\Users\KaziMinhaj\source\repos\mybank\BankyStuffLibrary\obj\Release\net6.0\BankyStuffLibrary.AssemblyInfo.cs
+C:\Users\KaziMinhaj\source\repos\mybank\BankyStuffLibrary\obj\Release\net6.0\BankyStuffLibrary.csproj.CoreCompileInputs.cache
+C:\Users\KaziMinhaj\source\repos\mybank\BankyStuffLibrary\obj\Release\net6.0\BankyStuffLibrary.dll
+C:\Users\KaziMinhaj\source\repos\mybank\BankyStuffLibrary\obj\Release\net6.0\ref\BankyStuffLibrary.dll
+C:\Users\KaziMinhaj\source\repos\mybank\BankyStuffLibrary\obj\Release\net6.0\BankyStuffLibrary.pdb

@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "P9ChPp9L9i7/VBh6qcLjY1Bgw9hdlf4KUPRyfWPTrLo6tXVrqORqjb4muqyeGCrqs2wvstPOwC8TYZ3RjThNzQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\KaziMinhaj\\source\\repos\\mybank\\BankyStuffLibrary\\BankyStuffLibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\KaziMinhaj\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512"
+  ],
+  "logs": []
+}
